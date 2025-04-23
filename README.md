@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full Stack Developer experienced in Java Spring Boot and Angular, building scalable web applications.<br>⚡ Proficient in React.js, Vue.js, and other frontend technologies for creating dynamic user experiences.<br>💡 Passionate about AI, Web3, and delivering innovative solutions through emerging technologies.<br>🚀 Managed entire projects independently, from concept to deployment, ensuring seamless integration.<br>🌍 Currently working as a freelance developer, helping businesses bring their ideas to life with tech solutions.
+👨‍💻 Full Stack Developer experienced in JavaScript and Python, building scalable web applications.<br>⚡ Proficient in React.js, Vue.js, and other frontend technologies for creating dynamic user experiences.<br>💡 Passionate about AI, Web3, and delivering innovative solutions through emerging technologies.<br>🚀 Managed entire projects independently, from concept to deployment, ensuring seamless integration.<br>🌍 Currently working as a freelance developer, helping businesses bring their ideas to life with tech solutions.
 
 
 # 💻 Tech Stack:
